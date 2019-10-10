@@ -1,0 +1,20 @@
+{
+  "name": "equi",
+  "version": "1.0.0",
+  "description": "Find an index in an array such that its prefix sum equals its suffix sum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "babel": "babel index.js -d lib"
+  },
+  "author": "michal-p",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^6.5.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.6.3",
+    "@babel/core": "^7.6.3",
+    "@babel/preset-env": "^7.6.3"
+  }
+}
