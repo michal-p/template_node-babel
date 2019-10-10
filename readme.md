@@ -1,7 +1,8 @@
-#How to run javascript with node and traspile by babel in CLI
+#Template repository for creating small javascript application on javascript with text files input and output
 
 **Instalation (node has to be already installed)**
-##BABEL setup
+##BABEL setup in CLI
+**How to run javascript with node and traspile by babel**
 
 ###1. Create package json
 ```
