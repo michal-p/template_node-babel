@@ -10,7 +10,6 @@
   "author": "michal-p",
   "license": "ISC",
   "dependencies": {
-    "eslint": "^6.5.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.6.3",
