@@ -10,7 +10,7 @@ nmp init
 ```
 
 ###2. Create index.js file
-###3. Install babel
+###3. Install babel, create directory node_modules
 ```
 npm install --save-dev @babel/core @babel/cli
 ```
