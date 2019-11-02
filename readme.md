@@ -60,6 +60,12 @@ npm install @babel/preset-env --save-dev
 ```
 ./node_modules/.bin/babel --watch index.js -d lib
 ```
+###10. Run compiled(transformed)(ES5) index.js file in ./lib/index.js
+```
+cd ./lib
+node index.js
+```
+
 ##GIT setup
 ###1. Create repository
 ```
