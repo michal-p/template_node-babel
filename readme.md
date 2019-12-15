@@ -6,7 +6,7 @@
 
 ###1. Create package json
 ```
-nmp init
+npm init
 ```
 
 ###2. Create index.js file
